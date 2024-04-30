@@ -15,3 +15,5 @@ class Solution:
             #if check is false return false
                 containsAll = False
         return containsAll
+
+#An interesting side note I found after reviewing some of the other solutions submitted.  Removing my flag variable and replacing lines 16 and 17 with return true/false yields a runtime of half the time my solution ran in.
