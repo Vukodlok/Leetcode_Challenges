@@ -20,7 +20,7 @@ class Solution:
                 #if different end and set flag to false
                 isPalindrome = False
                 break
-            #otherwise continut to next pair of characters
+            #otherwise continue to next pair of characters
             right -= 1
             left += 1
         #return boolean flag
