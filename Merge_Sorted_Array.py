@@ -1,8 +1,24 @@
+''' 
+# Leetcode challenge: Merge Sorted Array
+#
+# You are given two integer arrays nums1 and nums2, sorted in ascending order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
+# Merge nums1 and nums2 into a single array sorted in ascending order.
+# The final sorted array should not be returned by the function, but instead be stored inside the array nums1. 
+# To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, 
+# and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
+#
+# Created: 5/14/24
+# Author: Mark Robuck
+'''
 class Solution:
+    '''
+    # Merge two sorted arrays back into the first array, in ascending order
+    @param nums1, sorted array of m integer elements followed by n integer elements set to zero
+    @param nums2, sorted array of n integer elements
+    @param m, number of sorted elements at the front portion of nums1
+    @param n, number of sorted elements in nums2, and the number of empty 0 elements at the back portion of nums1
+    '''
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-        """
-        Do not return anything, modify nums1 in-place instead.
-        """
         #checks if both lists contain values
         if len(nums2) > 0 and len(nums1) > n:
             #last element of nums1
