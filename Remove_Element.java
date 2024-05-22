@@ -17,7 +17,7 @@ class Solution {
     /*
     * Remove all occurrences of a value from an array
     * @param nums, integer array of numbers to be checked for val
-    * @param vam, integer to be checked for in nums and removed
+    * @param val, integer to be checked for in nums and removed
     * @return integer value representing the number of elements in nums not equal to val
     */
     public int removeElement(int[] nums, int val) {
