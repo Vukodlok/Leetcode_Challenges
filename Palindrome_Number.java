@@ -1,6 +1,19 @@
+/*
+* Leetcode Challenge: Palindrome Number
+*
+* Given an integer x, return true if x is a palindrome, and false otherwise.
+*
+* 4/30/24
+* Mark Robuck
+*/
 import java.util.ArrayList;
 
 class Solution {
+    /*
+    * Check if a number is a palindrome.
+    * @params x, integer number to be checked
+    * @return true if x is a palindrome, false if not a palindrome
+    */
     public boolean isPalindrome(int x) {
         boolean isPalindrome = true;
         //ignore negatives since they are not palindromes by the challenge description
