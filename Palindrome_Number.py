@@ -1,4 +1,19 @@
+"""
+Leetcode Challenge: Palindrome Number
+
+Given an integer x, return true if x is a palindrome, and false otherwise.
+
+4/30/24
+Mark Robuck
+"""
 class Solution:
+    """
+    Check if a number is a palindrome.
+    Args:
+        x(int): number to be checked
+    Returns:
+        bool: true if x is a palindrome, false if not a palindrome
+    """
     def isPalindrome(self, x: int) -> bool:
         #ignore negatives since they are not palindromes by the challenge description
         if x < 0:
