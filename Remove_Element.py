@@ -1,4 +1,4 @@
-'''
+"""
 # Leetcode Challenge: Remove Element
 #
 # Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. 
@@ -11,8 +11,16 @@
 # 5/14/24
 # Author: Mark Robuck
 #
-'''
+"""
 class Solution:
+    """
+    Remove all occurrences of a value from an array
+    Args:
+        nums(List[int]): integer array of numbers to be checked for val
+        val(int): integer to be checked for in nums and removed
+    Returns: 
+        integer value representing the number of elements in nums not equal to val
+    """
     def removeElement(self, nums: List[int], val: int) -> int:
         #create left and right pointers
         left = 0
@@ -28,10 +36,10 @@ class Solution:
         #return the length of the modified list
         return left
 
-'''
-#While debugging I found some more concise solutions involving list comprehension
+"""
+# While debugging I found some more concise solutions involving list comprehension
 # Use list comprehension to create a new list with elements not equal to val
     nums = [x for x in nums if x != val]
     # Return the length of the modified list
     return len(nums)
-'''
+"""
