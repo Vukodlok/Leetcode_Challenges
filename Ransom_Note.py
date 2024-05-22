@@ -1,4 +1,22 @@
+"""
+Leetcode Challenge: Ransom Note
+
+Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise.
+
+Each letter in magazine can only be used once in ransomNote.
+
+4/30/24
+Mark Robuck
+"""
 class Solution:
+    """
+    Determine if all characters in a string are contained within another string.
+    Args:
+        ransomNote(str): the string to be tested if all character are also within magazine
+        magazine(str): the string to be used to test if all characters from ransomNote are within it
+    Returns:
+        bool: returns true if all characters in ransomNote are within magazine, and false if not
+    """
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         containsAll = True
         #create an array for each string containing each letter using split
