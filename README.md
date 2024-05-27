@@ -8,6 +8,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Merge Sorted Array: Merge two sorted arrays back into the first array sorted.
 - Number of 1 Bits: Find the number os set bits(1's) in a binary number.
 - Palindrome Number: Check if a number is a palindrome (same forwards and backwards).
+- Pow(x,n): Calculate the exponent of a decimal number.
 - Ransom Note: Determine if all characters in a string are contained within another string.
 - Remove Duplicates from Sorted Array: Remove all duplicate values from a sorted array.
 - Remove Element: Remove all occurrences of a value from an array.
