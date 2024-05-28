@@ -6,6 +6,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Happy Number: Replace an integer by the sum of the squares of its digits. Repeat until the result is 1 or an infinite loop.
 - Length of Last Word: Find the length of the last word in a string.
 - Merge Sorted Array: Merge two sorted arrays back into the first array sorted.
+- Merge Two Sorted Lists: Merge two sorted ListNodes into one
 - Number of 1 Bits: Find the number os set bits(1's) in a binary number.
 - Palindrome Number: Check if a number is a palindrome (same forwards and backwards).
 - Pow(x,n): Calculate the exponent of a decimal number.
