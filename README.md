@@ -19,4 +19,5 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Same Tree: Check if two binary trees have the same structure and node values.
 - Sqrt(x): Approximate the square root of a number, rounded down to the nearest integer.
 - Symmetric Tree: Check if a binary tree is a mirror of itself (left and right sides match).
+- Valid Anagram: Determine if one string is an anagram of another.
 - Valid Palindrome: Determine if a string is a palindrome (same backwards and forwards).
