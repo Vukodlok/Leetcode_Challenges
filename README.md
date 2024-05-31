@@ -3,6 +3,7 @@ A collection of my attempts and solutions for the challenges on Leetcode.com. Be
 and a quick description of the problem for my own use in finding an algorithm later.
 
 - Add Binary: Sum two binary strings.
+- Best Time to Buy and Sell Stock: Iterate through a list and find the largest difference.
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
 - Happy Number: Replace an integer by the sum of the squares of its digits. Repeat until the result is 1 or an infinite loop.
 - Length of Last Word: Find the length of the last word in a string.
