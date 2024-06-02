@@ -9,7 +9,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Length of Last Word: Find the length of the last word in a string.
 - Merge Sorted Array: Merge two sorted arrays back into the first array sorted.
 - Merge Two Sorted Lists: Merge two sorted ListNodes into one
-- Number of 1 Bits: Find the number os set bits(1's) in a binary number.
+- Number of 1 Bits: Find the number of set bits(1's) in a binary number.
 - Palindrome Number: Check if a number is a palindrome (same forwards and backwards).
 - Pow(x,n): Calculate the exponent of a decimal number.
 - Ransom Note: Determine if all characters in a string are contained within another string.
