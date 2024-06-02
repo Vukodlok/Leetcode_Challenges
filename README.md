@@ -7,6 +7,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
 - Happy Number: Replace an integer by the sum of the squares of its digits. Repeat until the result is 1 or an infinite loop.
 - Length of Last Word: Find the length of the last word in a string.
+- Majority Element: Find the element in a list that appears at least half the time
 - Merge Sorted Array: Merge two sorted arrays back into the first array sorted.
 - Merge Two Sorted Lists: Merge two sorted ListNodes into one
 - Number of 1 Bits: Find the number of set bits(1's) in a binary number.
