@@ -26,3 +26,4 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Symmetric Tree: Check if a binary tree is a mirror of itself (left and right sides match).
 - Valid Anagram: Determine if one string is an anagram of another.
 - Valid Palindrome: Determine if a string is a palindrome (same backwards and forwards).
+- Word Pattern: Determine if a string of words follows a given pattern.
