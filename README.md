@@ -29,4 +29,5 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Two Sum: Find the indices of two numbers in a list that add up to a target sum.
 - Valid Anagram: Determine if one string is an anagram of another.
 - Valid Palindrome: Determine if a string is a palindrome (same backwards and forwards).
+- Valid Parentheses: Determine if all paentheses have been closed in order.
 - Word Pattern: Determine if a string of words follows a given pattern.
