@@ -13,6 +13,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Linked List Cycle: Determine if a cycle exists in a linked list.
 - Longest Common Prefix: Find the longest common prefix in a list of strings.
 - Majority Element: Find the element in a list that appears at least half the time
+- Maximum Depth of Binary Tree: Find the maximum depth of a binary tree.
 - Merge Sorted Array: Merge two sorted arrays back into the first array sorted.
 - Merge Two Sorted Lists: Merge two sorted ListNodes into one
 - Number of 1 Bits: Find the number of set bits(1's) in a binary number.
