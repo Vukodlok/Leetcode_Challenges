@@ -7,6 +7,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Contains Duplicate II: Check if a list contains two elements that are equals and k or less indices apart.
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
 - Happy Number: Replace an integer by the sum of the squares of its digits. Repeat until the result is 1 or an infinite loop.
+- Invert Binary Tree: Invert a binary tree.
 - Isomorphic Strings: Check if all occurrences of specific letters are replaced with another character, maintaining order.
 - Is Subsequence: Determine if all characters in one string are contained in another in order.
 - Length of Last Word: Find the length of the last word in a string.
