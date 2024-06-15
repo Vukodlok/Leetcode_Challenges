@@ -5,6 +5,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Add Binary: Sum two binary strings.
 - Best Time to Buy and Sell Stock: Iterate through a list and find the largest difference.
 - Contains Duplicate II: Check if a list contains two elements that are equals and k or less indices apart.
+- Count Complete Tree Nodes: Count the number of nodes in a binary tree.
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
 - Happy Number: Replace an integer by the sum of the squares of its digits. Repeat until the result is 1 or an infinite loop.
 - Invert Binary Tree: Invert a binary tree.
