@@ -18,7 +18,7 @@ Mark Robuck
 #         self.right = right
 class Solution:
     """
-    Count the number of nodes in a binary treee.
+    Count the number of nodes in a binary tree.
     Args:
         root(TreeNode): binary tree to count
     Returns:
