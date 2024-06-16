@@ -3,6 +3,7 @@ A collection of my attempts and solutions for the challenges on Leetcode.com. Be
 and a quick description of the problem for my own use in finding an algorithm later.
 
 - Add Binary: Sum two binary strings.
+- Average of Levels in Binary Tree: Average the node values of each level of a binary tree.
 - Best Time to Buy and Sell Stock: Iterate through a list and find the largest difference.
 - Contains Duplicate II: Check if a list contains two elements that are equals and k or less indices apart.
 - Count Complete Tree Nodes: Count the number of nodes in a binary tree.
