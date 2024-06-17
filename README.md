@@ -19,6 +19,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Maximum Depth of Binary Tree: Find the maximum depth of a binary tree.
 - Merge Sorted Array: Merge two sorted arrays back into the first array sorted.
 - Merge Two Sorted Lists: Merge two sorted ListNodes into one
+- Minimum Absolute Difference in BST: Find the min absolute value difference for any two values in a binary tree.
 - Number of 1 Bits: Find the number of set bits(1's) in a binary number.
 - Palindrome Number: Check if a number is a palindrome (same forwards and backwards).
 - Path Sum: Check if a binary tree has a root-to-leaf path with a specific int sum.
