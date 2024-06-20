@@ -29,3 +29,11 @@ class Solution:
                 pairs.remove(i)
         #after checking every number return the list, which only contains one number
         return pairs[0]
+"""
+#Optimal solution found afterwards
+
+res = 0
+        for n in nums:
+            res = n ^ res
+        return res
+"""
