@@ -24,6 +24,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Number of 1 Bits: Find the number of set bits(1's) in a binary number.
 - Palindrome Number: Check if a number is a palindrome (same forwards and backwards).
 - Path Sum: Check if a binary tree has a root-to-leaf path with a specific int sum.
+- Plus One: Add one to a number where each digit is an element in an array.
 - Pow(x,n): Calculate the exponent of a decimal number.
 - Ransom Note: Determine if all characters in a string are contained within another string.
 - Remove Duplicates from Sorted Array: Remove all duplicate values from a sorted array.
