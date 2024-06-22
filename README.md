@@ -5,6 +5,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Add Binary: Sum two binary strings.
 - Average of Levels in Binary Tree: Average the node values of each level of a binary tree.
 - Best Time to Buy and Sell Stock: Iterate through a list and find the largest difference.
+- Climbing Stairs: How many distinct ways are there to climb stairs taking 1 or 2 steps at a time. (classic 1D DP problem)
 - Contains Duplicate II: Check if a list contains two elements that are equals and k or less indices apart.
 - Convert Sorted Array to Binary Search Tree: Convert a sorted array into a binary tree.
 - Count Complete Tree Nodes: Count the number of nodes in a binary tree.
