@@ -33,6 +33,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Remove Element: Remove all occurrences of a value from an array.
 - Reverse Bits: Reverse a binary number (the order, not flipping the bits).
 - Roman to Integer: Convert a roman numeral to an integer.
+- Rotate Array: Rotate all elements in anarray by k steps.
 - Same Tree: Check if two binary trees have the same structure and node values.
 - Search Insert Position: Binary search for a value and return the index where it is or should be if missing.
 - Single Number: Find the unmatched intger in a list of pairs.
