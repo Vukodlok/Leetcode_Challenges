@@ -15,6 +15,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Invert Binary Tree: Invert a binary tree.
 - Isomorphic Strings: Check if all occurrences of specific letters are replaced with another character, maintaining order.
 - Is Subsequence: Determine if all characters in one string are contained in another in order.
+- Jump Game: Determine if the entire array can be traversed given the game rules.
 - Length of Last Word: Find the length of the last word in a string.
 - Linked List Cycle: Determine if a cycle exists in a linked list.
 - Longest Common Prefix: Find the longest common prefix in a list of strings.
