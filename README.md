@@ -16,6 +16,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Isomorphic Strings: Check if all occurrences of specific letters are replaced with another character, maintaining order.
 - Is Subsequence: Determine if all characters in one string are contained in another in order.
 - Jump Game: Determine if the entire array can be traversed given the game rules.
+- Jump Game II: Find minimum number of jumps to reach the end of an array. Each element represents the max jump distance from that index.
 - Length of Last Word: Find the length of the last word in a string.
 - Linked List Cycle: Determine if a cycle exists in a linked list.
 - Longest Common Prefix: Find the longest common prefix in a list of strings.
