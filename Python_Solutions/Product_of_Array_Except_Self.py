@@ -17,7 +17,7 @@ class Solution:
     Args:
         nums(List[int]): original list if integers
     Returns:
-        List[int]: factorial of each number up to the same index
+        List[int]: product of all numbers except at the same index
     """
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         #create an intial list filled with ones and pointers
