@@ -11,6 +11,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Convert Sorted Array to Binary Search Tree: Convert a sorted array into a binary tree.
 - Count Complete Tree Nodes: Count the number of nodes in a binary tree.
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
+- Gas Station: Determine if a loop of an array can be completed given traversal weights.
 - Happy Number: Replace an integer by the sum of the squares of its digits. Repeat until the result is 1 or an infinite loop.
 - H-Index: Given an array find the h-index, max value s.t. at least h values are h or greater.
 - Insert Delete GetRandom O(1): Implement a class with an insert element, remove element, and return random element functionality.
