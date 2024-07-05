@@ -16,6 +16,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Happy Number: Replace an integer by the sum of the squares of its digits. Repeat until the result is 1 or an infinite loop.
 - H-Index: Given an array find the h-index, max value s.t. at least h values are h or greater.
 - Insert Delete GetRandom O(1): Implement a class with an insert element, remove element, and return random element functionality.
+- Integer to Roman: Given an integer, convert it to a Roman numberal.
 - Invert Binary Tree: Invert a binary tree.
 - Isomorphic Strings: Check if all occurrences of specific letters are replaced with another character, maintaining order.
 - Is Subsequence: Determine if all characters in one string are contained in another in order.
