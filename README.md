@@ -41,6 +41,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Remove Duplicates from Sorted Array II: Remove duplicates, in excess of 2, in a list of numbers without moving the order of the elements.
 - Remove Element: Remove all occurrences of a value from an array.
 - Reverse Bits: Reverse a binary number (the order, not flipping the bits).
+- Reverse Words in a String: Reverse the words in a given string.
 - Roman to Integer: Convert a roman numeral to an integer.
 - Rotate Array: Rotate all elements in anarray by k steps.
 - Same Tree: Check if two binary trees have the same structure and node values.
