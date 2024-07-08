@@ -56,3 +56,4 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Valid Palindrome: Determine if a string is a palindrome (same backwards and forwards).
 - Valid Parentheses: Determine if all paentheses have been closed in order.
 - Word Pattern: Determine if a string of words follows a given pattern.
+- Zigzag Conversion: Convert a string into a zigzag format like a backwards N.
