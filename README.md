@@ -50,6 +50,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Sqrt(x): Approximate the square root of a number, rounded down to the nearest integer.
 - Summary Ranges: Return a formatted string representing a range of numbers in a list.
 - Symmetric Tree: Check if a binary tree is a mirror of itself (left and right sides match).
+- Text Justification: Format a string to be evenly spaced on each line.
 - Trapping Rain Water: Compute a specific area.
 - Two Sum: Find the indices of two numbers in a list that add up to a target sum.
 - Valid Anagram: Determine if one string is an anagram of another.
