@@ -53,6 +53,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Text Justification: Format a string to be evenly spaced on each line.
 - Trapping Rain Water: Compute a specific area.
 - Two Sum: Find the indices of two numbers in a list that add up to a target sum.
+- Two Sum II: Find the indices of two numbers in a list that add to a target sum.
 - Valid Anagram: Determine if one string is an anagram of another.
 - Valid Palindrome: Determine if a string is a palindrome (same backwards and forwards).
 - Valid Parentheses: Determine if all paentheses have been closed in order.
