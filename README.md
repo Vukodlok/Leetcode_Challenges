@@ -2,6 +2,7 @@
 A collection of my attempts and solutions for the challenges on Leetcode.com. Below is an alphabetical list of those I've completed
 and a quick description of the problem for my own use in finding an algorithm later.
 
+- 3Sum: Find all triplets in a list that sum to zero.
 - Add Binary: Sum two binary strings.
 - Average of Levels in Binary Tree: Average the node values of each level of a binary tree.
 - Best Time to Buy and Sell Stock: Iterate through a list and find the largest difference.
