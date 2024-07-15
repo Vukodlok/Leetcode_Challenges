@@ -52,6 +52,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Search Insert Position: Binary search for a value and return the index where it is or should be if missing.
 - Single Number: Find the unmatched intger in a list of pairs.
 - Sqrt(x): Approximate the square root of a number, rounded down to the nearest integer.
+- Substring with Concatenation of All Words: Find the indices of substrings within a string.
 - Summary Ranges: Return a formatted string representing a range of numbers in a list.
 - Symmetric Tree: Check if a binary tree is a mirror of itself (left and right sides match).
 - Text Justification: Format a string to be evenly spaced on each line.
