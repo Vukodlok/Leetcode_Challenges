@@ -52,6 +52,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Same Tree: Check if two binary trees have the same structure and node values.
 - Search Insert Position: Binary search for a value and return the index where it is or should be if missing.
 - Single Number: Find the unmatched intger in a list of pairs.
+- Spiral Matrix: Return a list of elements from a matrix in a specific order.
 - Sqrt(x): Approximate the square root of a number, rounded down to the nearest integer.
 - Substring with Concatenation of All Words: Find the indices of substrings within a string.
 - Summary Ranges: Return a formatted string representing a range of numbers in a list.
