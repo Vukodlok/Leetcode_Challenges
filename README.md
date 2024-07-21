@@ -49,6 +49,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Reverse Words in a String: Reverse the words in a given string.
 - Roman to Integer: Convert a roman numeral to an integer.
 - Rotate Array: Rotate all elements in anarray by k steps.
+- Rotate Image: Rotate the elements of a matrix 90 degrees clockwise.
 - Same Tree: Check if two binary trees have the same structure and node values.
 - Search Insert Position: Binary search for a value and return the index where it is or should be if missing.
 - Single Number: Find the unmatched intger in a list of pairs.
