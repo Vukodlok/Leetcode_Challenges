@@ -52,6 +52,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Rotate Image: Rotate the elements of a matrix 90 degrees clockwise.
 - Same Tree: Check if two binary trees have the same structure and node values.
 - Search Insert Position: Binary search for a value and return the index where it is or should be if missing.
+- Set Matrix Zeroes: If an element in a matrix is zero, set entire row/column to zero.
 - Single Number: Find the unmatched intger in a list of pairs.
 - Spiral Matrix: Return a list of elements from a matrix in a specific order.
 - Sqrt(x): Approximate the square root of a number, rounded down to the nearest integer.
