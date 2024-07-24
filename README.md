@@ -16,6 +16,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
 - Game of Life: Modify a 2D array according to game rules.
 - Gas Station: Determine if a loop of an array can be completed given traversal weights.
+- Group Anagrams: Determine which strings in a list are anagrams of one another.
 - Happy Number: Replace an integer by the sum of the squares of its digits. Repeat until the result is 1 or an infinite loop.
 - H-Index: Given an array find the h-index, max value s.t. at least h values are h or greater.
 - Insert Delete GetRandom O(1): Implement a class with an insert element, remove element, and return random element functionality.
