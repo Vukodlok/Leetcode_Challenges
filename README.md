@@ -29,6 +29,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Length of Last Word: Find the length of the last word in a string.
 - Linked List Cycle: Determine if a cycle exists in a linked list.
 - Longest Common Prefix: Find the longest common prefix in a list of strings.
+- Longest Consecutive Sequence: Find the longest sequence of consecutive numbers in a list.
 - Longest Substring Without Reoeating Characters: Find longest substring without repeated characters.
 - Majority Element: Find the element in a list that appears at least half the time
 - Maximum Depth of Binary Tree: Find the maximum depth of a binary tree.
