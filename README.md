@@ -33,6 +33,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Longest Substring Without Reoeating Characters: Find longest substring without repeated characters.
 - Majority Element: Find the element in a list that appears at least half the time
 - Maximum Depth of Binary Tree: Find the maximum depth of a binary tree.
+- Merged Intervals: Merge multiple overlapping intervals ranges.
 - Merge Sorted Array: Merge two sorted arrays back into the first array sorted.
 - Merge Two Sorted Lists: Merge two sorted ListNodes into one
 - Minimum Absolute Difference in BST: Find the min absolute value difference for any two values in a binary tree.
