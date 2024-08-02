@@ -4,6 +4,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 
 - 3Sum: Find all triplets in a list that sum to zero.
 - Add Binary: Sum two binary strings.
+- Add Two Numbers: Add two numbers each represented as a linked list.
 - Average of Levels in Binary Tree: Average the node values of each level of a binary tree.
 - Basic Calculator: Evaluate a string as a mathematical expression with + and -.
 - Best Time to Buy and Sell Stock: Iterate through a list and find the largest difference.
