@@ -14,6 +14,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Container with Most Water: Find the max amount of area given an area of heights.
 - Contains Duplicate II: Check if a list contains two elements that are equals and k or less indices apart.
 - Convert Sorted Array to Binary Search Tree: Convert a sorted array into a binary tree.
+- Copy List with Random Pointer: Create a deep copy on a linked list with random pointers.
 - Count Complete Tree Nodes: Count the number of nodes in a binary tree.
 - Evaluate Reverse Polish Notation: Evaluate an expression in reverse polish notation using a stack.
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
