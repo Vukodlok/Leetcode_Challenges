@@ -58,6 +58,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Remove Element: Remove all occurrences of a value from an array.
 - Reverse Bits: Reverse a binary number (the order, not flipping the bits).
 - Reverse Linked List II: Reverse a portion of a linked list.
+- Reverse Nodes in k-Group: Reverse multiple portions of a linked list.
 - Reverse Words in a String: Reverse the words in a given string.
 - Roman to Integer: Convert a roman numeral to an integer.
 - Rotate Array: Rotate all elements in anarray by k steps.
