@@ -55,6 +55,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Ransom Note: Determine if all characters in a string are contained within another string.
 - Remove Duplicates from Sorted Array: Remove all duplicate values from a sorted array.
 - Remove Duplicates from Sorted Array II: Remove duplicates, in excess of 2, in a list of numbers without moving the order of the elements.
+- Remove Duplicates from Sorted List II: Remove all numbers that have duplicates from a linked list.
 - Remove Element: Remove all occurrences of a value from an array.
 - Remove NthNode From End of List: Remove a node from a linked list.
 - Reverse Bits: Reverse a binary number (the order, not flipping the bits).
