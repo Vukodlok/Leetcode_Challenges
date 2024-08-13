@@ -36,6 +36,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Longest Common Prefix: Find the longest common prefix in a list of strings.
 - Longest Consecutive Sequence: Find the longest sequence of consecutive numbers in a list.
 - Longest Substring Without Reoeating Characters: Find longest substring without repeated characters.
+- LRU Cache: Implement a LRU(Least Recently Used) cache.
 - Majority Element: Find the element in a list that appears at least half the time
 - Maximum Depth of Binary Tree: Find the maximum depth of a binary tree.
 - Merged Intervals: Merge multiple overlapping intervals ranges.
