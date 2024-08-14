@@ -11,6 +11,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Best Time to Buy and Sell Stock II: Find the max profit by buying/selling an individual stock given a list of daily prices.
 - Candy: Determine how much resource to assign each element in a list.
 - Climbing Stairs: How many distinct ways are there to climb stairs taking 1 or 2 steps at a time. (classic 1D DP problem)
+- Construct Binary Tree from Preorder and Inorder Traversal: Construct Binary Tree given the preorder, by row, and inorder, by column, list of integers.
 - Container with Most Water: Find the max amount of area given an area of heights.
 - Contains Duplicate II: Check if a list contains two elements that are equals and k or less indices apart.
 - Convert Sorted Array to Binary Search Tree: Convert a sorted array into a binary tree.
