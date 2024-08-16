@@ -55,6 +55,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Path Sum: Check if a binary tree has a root-to-leaf path with a specific int sum.
 - Plus One: Add one to a number where each digit is an element in an array.
 - Pow(x,n): Calculate the exponent of a decimal number.
+- Populating Next Right Pointers in Each Node II: Set nodes to the right of existing nodes in binary tree.
 - Product of Array Except Self: Find the product of all elements in a list except at the current index.
 - Ransom Note: Determine if all characters in a string are contained within another string.
 - Remove Duplicates from Sorted Array: Remove all duplicate values from a sorted array.
