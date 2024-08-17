@@ -20,6 +20,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Count Complete Tree Nodes: Count the number of nodes in a binary tree.
 - Evaluate Reverse Polish Notation: Evaluate an expression in reverse polish notation using a stack.
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
+- Flatten Binary Tree to Linked List: Turn a binary tree into a linked list in pre-order traversal.
 - Game of Life: Modify a 2D array according to game rules.
 - Gas Station: Determine if a loop of an array can be completed given traversal weights.
 - Group Anagrams: Determine which strings in a list are anagrams of one another.
