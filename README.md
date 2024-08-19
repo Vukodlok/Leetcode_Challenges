@@ -81,6 +81,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Sqrt(x): Approximate the square root of a number, rounded down to the nearest integer.
 - Substring with Concatenation of All Words: Find the indices of substrings within a string.
 - Summary Ranges: Return a formatted string representing a range of numbers in a list.
+- Sum Root to Leaf Numbers: Use dfs to find the number represented in root-to-leaf path of a binary tree and sum all values.
 - Symmetric Tree: Check if a binary tree is a mirror of itself (left and right sides match).
 - Text Justification: Format a string to be evenly spaced on each line.
 - Trapping Rain Water: Compute a specific area.
