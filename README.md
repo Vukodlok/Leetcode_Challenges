@@ -13,6 +13,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Binary Tree Level Order Traversal: Return node values of a binary tree in left to right level order.
 - Binary Tree Maximum Path Sum: Find the max path sum.
 - Binary Tree Right Side View: Return the "right" side of the tree.
+- Binary Tree Zigzag Level Order Traversal: Return nodes of binary tree in zagzag level order, left-right-left-etc.
 - Candy: Determine how much resource to assign each element in a list.
 - Climbing Stairs: How many distinct ways are there to climb stairs taking 1 or 2 steps at a time. (classic 1D DP problem)
 - Construct Binary Tree from Preorder and Inorder Traversal: Construct Binary Tree given the preorder, by row, and inorder, by column, list of integers.
