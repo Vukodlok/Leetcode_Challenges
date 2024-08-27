@@ -95,6 +95,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Two Sum: Find the indices of two numbers in a list that add up to a target sum.
 - Two Sum II: Find the indices of two numbers in a list that add to a target sum.
 - Valid Anagram: Determine if one string is an anagram of another.
+- Validate Binary Search Tree: Determine if a binary tree is a valid binary search tree.
 - Valid Palindrome: Determine if a string is a palindrome (same backwards and forwards).
 - Valid Parentheses: Determine if all paentheses have been closed in order.
 - Valid Sudoku: Check if a 9x9 2D matrix uniquely contians 1-9 in each row, column, and 3x3 grid.
