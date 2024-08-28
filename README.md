@@ -58,6 +58,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Minimum Window Substring: find the smallest substring of a string that contains all of certain characters.
 - Min Stack: Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
 - Number of 1 Bits: Find the number of set bits(1's) in a binary number.
+- Number of Islands: Determine number of islands in a matrix.
 - Palindrome Number: Check if a number is a palindrome (same forwards and backwards).
 - Partition List: Partition a linked list based on less than and greater than a value.
 - Path Sum: Check if a binary tree has a root-to-leaf path with a specific int sum.
