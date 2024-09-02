@@ -25,6 +25,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Copy List with Random Pointer: Create a deep copy on a linked list with random pointers.
 - Count Complete Tree Nodes: Count the number of nodes in a binary tree.
 - Course Schedule: Check if all courses in a course list can be taken.
+- Course Schedule II: Given a course list and a prerequisite list determine a course order.
 - Evaluate Division: Find the value of all queries given previous equations and values.
 - Evaluate Reverse Polish Notation: Evaluate an expression in reverse polish notation using a stack.
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
