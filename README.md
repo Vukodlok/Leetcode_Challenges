@@ -89,6 +89,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Set Matrix Zeroes: If an element in a matrix is zero, set entire row/column to zero.
 - Simplify Path: Take a unix-stype path and apply formatting rules.
 - Single Number: Find the unmatched intger in a list of pairs.
+- Snakes and Ladders: Determine the minimum number of moves to reach the end of a snakes and ladders board.
 - Spiral Matrix: Return a list of elements from a matrix in a specific order.
 - Sqrt(x): Approximate the square root of a number, rounded down to the nearest integer.
 - Substring with Concatenation of All Words: Find the indices of substrings within a string.
