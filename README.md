@@ -57,6 +57,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Merge Sorted Array: Merge two sorted arrays back into the first array sorted.
 - Merge Two Sorted Lists: Merge two sorted ListNodes into one
 - Minimum Absolute Difference in BST: Find the min absolute value difference for any two values in a binary tree.
+- Minimum Genetic Mutation: Find the min number of mutations to result in the ending gene.
 - Minimum Number of Arrows to Burst Balloons: Count the number of non-overlapping intervals.
 - Minimum Size Subarray Sum: Determine if a subarray calculates to a certain value.
 - Minimum Window Substring: find the smallest substring of a string that contains all of certain characters.
