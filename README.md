@@ -47,6 +47,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Jump Game II: Find minimum number of jumps to reach the end of an array. Each element represents the max jump distance from that index.
 - Kth Smallest Element in a BST: Return the kth smallest value in a binary tree using a stack.
 - Length of Last Word: Find the length of the last word in a string.
+- Letter Combinations of a Phone Number: Find all possible letter combinations from a phone number.
 - Linked List Cycle: Determine if a cycle exists in a linked list.
 - Longest Common Prefix: Find the longest common prefix in a list of strings.
 - Longest Consecutive Sequence: Find the longest sequence of consecutive numbers in a list.
