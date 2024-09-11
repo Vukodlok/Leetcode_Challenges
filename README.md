@@ -71,6 +71,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Palindrome Number: Check if a number is a palindrome (same forwards and backwards).
 - Partition List: Partition a linked list based on less than and greater than a value.
 - Path Sum: Check if a binary tree has a root-to-leaf path with a specific int sum.
+- Permutations: Find all permutations of a set of integers.
 - Plus One: Add one to a number where each digit is an element in an array.
 - Pow(x,n): Calculate the exponent of a decimal number.
 - Populating Next Right Pointers in Each Node II: Set nodes to the right of existing nodes in binary tree.
