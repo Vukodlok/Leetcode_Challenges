@@ -67,6 +67,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Minimum Size Subarray Sum: Determine if a subarray calculates to a certain value.
 - Minimum Window Substring: find the smallest substring of a string that contains all of certain characters.
 - Min Stack: Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+- N-Queens II: Find the number of distinct solutions to the n-queens puzzle.
 - Number of 1 Bits: Find the number of set bits(1's) in a binary number.
 - Number of Islands: Determine number of islands in a matrix.
 - Palindrome Number: Check if a number is a palindrome (same forwards and backwards).
