@@ -117,5 +117,6 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Valid Sudoku: Check if a 9x9 2D matrix uniquely contians 1-9 in each row, column, and 3x3 grid.
 - Word Ladder: Find the minimum number of single letter transformations needed to change one word to another given a dictionary of valid changes.
 - Word Pattern: Determine if a string of words follows a given pattern.
+- Word Search: Determine if a word exists in a word search grid.
 - Word Search II: Find all words in a list given a word search board.
 - Zigzag Conversion: Convert a string into a zigzag format like a backwards N.
