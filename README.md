@@ -21,6 +21,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Combination Sum: Given a target number, find all combinations of integers from a list that sum to the target.
 - Construct Binary Tree from Preorder and Inorder Traversal: Construct Binary Tree given the preorder, by row, and inorder, by column, list of integers.
 - Construct Binary Tree from Inorder and Postorder Traversal: Construct Binary Tree given the inorder, by column, and postorder list of integers.
+- Construct Quad Tree: Create the root of a quad-tree.
 - Container with Most Water: Find the max amount of area given an area of heights.
 - Contains Duplicate II: Check if a list contains two elements that are equals and k or less indices apart.
 - Convert Sorted Array to Binary Search Tree: Convert a sorted array into a binary tree.
