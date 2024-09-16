@@ -60,6 +60,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - LRU Cache: Implement a LRU(Least Recently Used) cache.
 - Majority Element: Find the element in a list that appears at least half the time
 - Maximum Depth of Binary Tree: Find the maximum depth of a binary tree.
+- Maximum Subarray: Find the subarray in an array with largest sum. (Kadane's Algorithm)
 - Merged Intervals: Merge multiple overlapping intervals ranges.
 - Merge k Sorted Lists: Merge a list of sorted linked-lists into a merged list.
 - Merge Sorted Array: Merge two sorted arrays back into the first array sorted.
