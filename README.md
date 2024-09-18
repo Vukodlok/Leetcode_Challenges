@@ -33,6 +33,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Evaluate Division: Find the value of all queries given previous equations and values.
 - Evaluate Reverse Polish Notation: Evaluate an expression in reverse polish notation using a stack.
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
+- Find Peak Element: Find a peak element, an element strictly greater than its neighbors.
 - Flatten Binary Tree to Linked List: Turn a binary tree into a linked list in pre-order traversal.
 - Game of Life: Modify a 2D array according to game rules.
 - Gas Station: Determine if a loop of an array can be completed given traversal weights.
