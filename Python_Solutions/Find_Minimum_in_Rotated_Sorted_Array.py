@@ -37,7 +37,7 @@ class Solution:
             #if middle element > than the last element, smallest value in right half.
             if nums[mid] > nums[high]:
                 low = mid + 1
-            # Otherwise, smallest value in left half (including mid).
+            #otherwise, smallest value in left half (including mid).
             else:
                 high = mid
         
