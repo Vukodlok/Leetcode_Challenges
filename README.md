@@ -33,6 +33,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Evaluate Division: Find the value of all queries given previous equations and values.
 - Evaluate Reverse Polish Notation: Evaluate an expression in reverse polish notation using a stack.
 - Find First and Last Position of Element in Sorted Array: Find the first and last position of an element in a sorted list.
+- Find Minimum in Rotated Sorted Array: Find the mimimum element in a list that has been rotated multiple times.
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
 - Find Peak Element: Find a peak element, an element strictly greater than its neighbors.
 - Flatten Binary Tree to Linked List: Turn a binary tree into a linked list in pre-order traversal.
