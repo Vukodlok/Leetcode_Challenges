@@ -52,6 +52,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Is Subsequence: Determine if all characters in one string are contained in another in order.
 - Jump Game: Determine if the entire array can be traversed given the game rules.
 - Jump Game II: Find minimum number of jumps to reach the end of an array. Each element represents the max jump distance from that index.
+- Kth Largest Element in an Array: Find the kth largest element in an unsorted list.
 - Kth Smallest Element in a BST: Return the kth smallest value in a binary tree using a stack.
 - Length of Last Word: Find the length of the last word in a string.
 - Letter Combinations of a Phone Number: Find all possible letter combinations from a phone number.
