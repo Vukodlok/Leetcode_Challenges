@@ -48,6 +48,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Insert Interval: Insert a new interval into a list of intervals.
 - Integer to Roman: Given an integer, convert it to a Roman numberal.
 - Invert Binary Tree: Invert a binary tree.
+- IPO: Maximize profit based on given projects, costs, and gains.
 - Isomorphic Strings: Check if all occurrences of specific letters are replaced with another character, maintaining order.
 - Is Subsequence: Determine if all characters in one string are contained in another in order.
 - Jump Game: Determine if the entire array can be traversed given the game rules.
