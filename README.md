@@ -112,6 +112,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Set Matrix Zeroes: If an element in a matrix is zero, set entire row/column to zero.
 - Simplify Path: Take a unix-stype path and apply formatting rules.
 - Single Number: Find the unmatched intger in a list of pairs.
+- Single Number II: Find the only number in a list that only appears once.
 - Snakes and Ladders: Determine the minimum number of moves to reach the end of a snakes and ladders board.
 - Sort List: Sort a linked list in ascending order.
 - Spiral Matrix: Return a list of elements from a matrix in a specific order.
