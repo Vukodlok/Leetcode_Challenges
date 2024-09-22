@@ -34,6 +34,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Evaluate Reverse Polish Notation: Evaluate an expression in reverse polish notation using a stack.
 - Find First and Last Position of Element in Sorted Array: Find the first and last position of an element in a sorted list.
 - Find K Pairs with Smallest Sums: Find pairs of values from two lists in order of smallest sum.
+- Find Median from Data Stream: Find the median from a data stream using two heaps.
 - Find Minimum in Rotated Sorted Array: Find the mimimum element in a list that has been rotated multiple times.
 - Find the Index of the First Occurrence in a String - Find the index of a substring within another string.
 - Find Peak Element: Find a peak element, an element strictly greater than its neighbors.
