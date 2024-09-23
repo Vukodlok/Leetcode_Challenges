@@ -33,6 +33,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Design Add and Search Words Data Structure: Create a data structure of words, with add and search functions.
 - Evaluate Division: Find the value of all queries given previous equations and values.
 - Evaluate Reverse Polish Notation: Evaluate an expression in reverse polish notation using a stack.
+- Factorial Trailing Zeroes: Return the number of trailing zeroes in a factorial calculation.
 - Find First and Last Position of Element in Sorted Array: Find the first and last position of an element in a sorted list.
 - Find K Pairs with Smallest Sums: Find pairs of values from two lists in order of smallest sum.
 - Find Median from Data Stream: Find the median from a data stream using two heaps.
