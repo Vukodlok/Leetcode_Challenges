@@ -47,6 +47,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Group Anagrams: Determine which strings in a list are anagrams of one another.
 - Happy Number: Replace an integer by the sum of the squares of its digits. Repeat until the result is 1 or an infinite loop.
 - H-Index: Given an array find the h-index, max value s.t. at least h values are h or greater.
+- House Robber: Given a list of integers, find the max sum without using adjacent values.
 - Implement Trie: Implement a prefix tree, a tree data structure used to efficiently store and retrieve keys in a dataset of strings.
 - Insert Delete GetRandom O(1): Implement a class with an insert element, remove element, and return random element functionality.
 - Insert Interval: Insert a new interval into a list of intervals.
