@@ -71,6 +71,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Maximum Depth of Binary Tree: Find the maximum depth of a binary tree.
 - Maximum Subarray: Find the subarray in an array with largest sum. (Kadane's Algorithm)
 - Maximum Sum Circular Subarray: Find max possible sum of a subarray in a circular integer array.
+- Max Points on a Line: Find max number of points on a line.
 - Median of Two Sorted Arrays: Merge two arrays then find the median element.
 - Merged Intervals: Merge multiple overlapping intervals ranges.
 - Merge k Sorted Lists: Merge a list of sorted linked-lists into a merged list.
