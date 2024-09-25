@@ -18,6 +18,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Candy: Determine how much resource to assign each element in a list.
 - Climbing Stairs: How many distinct ways are there to climb stairs taking 1 or 2 steps at a time. (classic 1D DP problem)
 - Clone Graph: Clone a graph data structure.
+- Coin Change: Determine the fewest number of coins to make change.
 - Combinations: Find a combination of numbers within a given range.
 - Combination Sum: Given a target number, find all combinations of integers from a list that sum to the target.
 - Construct Binary Tree from Preorder and Inorder Traversal: Construct Binary Tree given the preorder, by row, and inorder, by column, list of integers.
