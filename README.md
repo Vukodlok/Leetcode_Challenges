@@ -130,6 +130,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Symmetric Tree: Check if a binary tree is a mirror of itself (left and right sides match).
 - Text Justification: Format a string to be evenly spaced on each line.
 - Trapping Rain Water: Compute a specific area.
+- Triangle: Find the minimum path sum of a triangle array.
 - Two Sum: Find the indices of two numbers in a list that add up to a target sum.
 - Two Sum II: Find the indices of two numbers in a list that add to a target sum.
 - Valid Anagram: Determine if one string is an anagram of another.
