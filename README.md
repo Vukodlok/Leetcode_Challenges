@@ -67,6 +67,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Longest Common Prefix: Find the longest common prefix in a list of strings.
 - Longest Consecutive Sequence: Find the longest sequence of consecutive numbers in a list.
 - Longest Increasing Subsequence: Find length of longest increasing subsequence in an array.
+- Longest Palindromic Substring: Find smallest palindromic substring.
 - Longest Substring Without Reoeating Characters: Find longest substring without repeated characters.
 - Lowest Common Ancestor of a Binary Tree: Find the lowest common ancestor in a binary tree.
 - LRU Cache: Implement a LRU(Least Recently Used) cache.
