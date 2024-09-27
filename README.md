@@ -53,6 +53,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Insert Delete GetRandom O(1): Implement a class with an insert element, remove element, and return random element functionality.
 - Insert Interval: Insert a new interval into a list of intervals.
 - Integer to Roman: Given an integer, convert it to a Roman numberal.
+- Interleaving String: Can a string be formed by weaving two other strings together.
 - Invert Binary Tree: Invert a binary tree.
 - IPO: Maximize profit based on given projects, costs, and gains.
 - Isomorphic Strings: Check if all occurrences of specific letters are replaced with another character, maintaining order.
