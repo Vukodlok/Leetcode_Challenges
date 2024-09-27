@@ -134,6 +134,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Triangle: Find the minimum path sum of a triangle array.
 - Two Sum: Find the indices of two numbers in a list that add up to a target sum.
 - Two Sum II: Find the indices of two numbers in a list that add to a target sum.
+- Unique Paths II: Find the number of unique paths.
 - Valid Anagram: Determine if one string is an anagram of another.
 - Validate Binary Search Tree: Determine if a binary tree is a valid binary search tree.
 - Valid Palindrome: Determine if a string is a palindrome (same backwards and forwards).
