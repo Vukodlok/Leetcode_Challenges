@@ -32,6 +32,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Course Schedule: Check if all courses in a course list can be taken.
 - Course Schedule II: Given a course list and a prerequisite list determine a course order.
 - Design Add and Search Words Data Structure: Create a data structure of words, with add and search functions.
+- Edit Distance: Find minimum number of operations to convert word1 into word2.
 - Evaluate Division: Find the value of all queries given previous equations and values.
 - Evaluate Reverse Polish Notation: Evaluate an expression in reverse polish notation using a stack.
 - Factorial Trailing Zeroes: Return the number of trailing zeroes in a factorial calculation.
