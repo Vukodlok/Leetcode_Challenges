@@ -76,6 +76,7 @@ and a quick description of the problem for my own use in finding an algorithm la
 - Lowest Common Ancestor of a Binary Tree: Find the lowest common ancestor in a binary tree.
 - LRU Cache: Implement a LRU(Least Recently Used) cache.
 - Majority Element: Find the element in a list that appears at least half the time
+- Maximal Square: Find largest square os 1s in a matrix.
 - Maximum Depth of Binary Tree: Find the maximum depth of a binary tree.
 - Maximum Subarray: Find the subarray in an array with largest sum. (Kadane's Algorithm)
 - Maximum Sum Circular Subarray: Find max possible sum of a subarray in a circular integer array.
